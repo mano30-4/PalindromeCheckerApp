@@ -31,9 +31,7 @@ public class PalindromeCheckerApp {
                 System.out.println("Result: It IS a palindrome.");
             } else {
                 System.out.println("Word: " + word);
-                System.out.println("Result: It is NOT a palindrome.");
+                System.out.println("Result: It is NOT a palindrom");
             }
-
-        }
     }
 }
