@@ -5,6 +5,5 @@ public class PalindromeCheckerApp {
         System.out.println("version 1.0");
         System.out.println("system initailised succesfully");
 
-
     }
 }
